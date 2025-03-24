@@ -30,7 +30,26 @@ Bu projeyle back-end ve front-end entegrasyonu, veritabanı yönetimi ve dinamik
 
 
 
-📸 Projeden bazı ekran görüntüleri: 
+📸 Projeden Bazı Ekran Görüntüleri: 
+
+# 🚀 ASP.NET Core ile Portfolio Uygulaması 🚀
+
+Bu proje, Murat Yücedağ'ın Udemy'deki **ASP.NET Core ile Portfolio Uygulaması Geliştirme** eğitimine dayanarak geliştirilmiştir. Hazır bir şablon üzerinde düzenlemeler yaparak, **Admin Paneli'ni** ihtiyaca göre özelleştirdim ve **ASP.NET Core 8.0** ile **Entity Framework Core** kullanarak **Code First** yaklaşımıyla veritabanı işlemleri gerçekleştirdim.
+
+## 📌 Projede Kullandığım Teknolojiler:
+
+- ✅ **ASP.NET Core 8.0**
+- ✅ **Entity Framework Core**
+- ✅ **Microsoft.EntityFrameworkCore (Tools, Design, SQL Server)**
+- ✅ **Code First Yaklaşımı**
+- ✅ **LINQ Sorguları**
+- ✅ **Model-View-Controller (MVC)**
+- ✅ **Migration İşlemleri**
+- ✅ **HTML, CSS, Bootstrap**
+- ✅ **JavaScript**
+- ✅ **SQL**
+
+## 📸 Projeden Bazı Ekran Görüntüleri:
 
 
 ![Ekran görüntüsü 2025-03-25 012247](https://github.com/user-attachments/assets/a9d79c62-8059-45ee-aaa6-c7ba7f13a71b)
