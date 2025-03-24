@@ -1,9 +1,13 @@
 ASP.NET CORE İLE PORTFOLYO UYGULAMASI:
 
+
+
 🔹 Bu projeyi, Murat Yücedağ'ın Udemy'deki ASP.NET CORE ile Portfolio Uygulaması Geliştirme eğitimi ile geliştirdim. Proje iki aşamadan oluşuyordu. İlk aşamada UI üzerine çalıştım, ikinci aşamada Admin tarafını geliştirdim. 
 
 
 KULLANILAN TEKNOLOJİLER VE KÜTÜPHANELER:
+
+
 
 🔹 ASP.NET Core 8.0
 
@@ -38,7 +42,6 @@ KULLANILAN TEKNOLOJİLER VE KÜTÜPHANELER:
 🔹 SQL
 
 🔹 Javascript
-
 🔹 Bootstrap
 
 
