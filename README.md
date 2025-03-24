@@ -6,23 +6,41 @@ ASP.NET CORE İLE PORTFOLYO UYGULAMASI:
 KULLANILAN TEKNOLOJİLER VE KÜTÜPHANELER:
 
 🔹 ASP.NET Core 8.0
+
 🔹 Microsoft.EntityFrameworkCore (8.0.14)
+
 🔹 Microsoft.EntityFrameworkCore.Design (8.0.7)
+
 🔹 Microsoft.EntityFrameworkCore.Tools (8.0.14)
+
 🔹 Microsoft.EntityFrameworkCore.SqlServer (8.0.14)
+
 🔹 Entity Framework Core
+
 🔹 Code First Yaklaşımı
+
 🔹 Linq Sorguları
+
 🔹 Hazır Şablon Düzenlemesi
+
 🔹 Model
+
 🔹 View
+
 🔹 Controller
+
 🔹 Migration İşlemleri
+
 🔹 Css
+
 🔹 Html
+
 🔹 SQL
+
 🔹 Javascript
+
 🔹 Bootstrap
+
 
 EKRAN GÖRÜNTÜLERİ:
 ![Ekran görüntüsü 2025-03-25 012247](https://github.com/user-attachments/assets/a9d79c62-8059-45ee-aaa6-c7ba7f13a71b)
