@@ -18,10 +18,11 @@ Bu proje, Murat Yücedağ'ın Udemy'deki **ASP.NET Core ile Portfolio Uygulamas�
 ## 📸 Projeden Bazı Ekran Görüntüleri:
 
 
-![Ekran görüntüsü 2025-03-25 012247](https://github.com/user-attachments/assets/a9d79c62-8059-45ee-aaa6-c7ba7f13a71b)
-![Ekran görüntüsü 2025-03-25 012154](https://github.com/user-attachments/assets/d626b5ba-b63f-4ccf-a8a8-665115af8cd1)
-![Ekran görüntüsü 2025-03-25 012129](https://github.com/user-attachments/assets/cacaaf03-072c-4768-a1b7-90f15591ad52)
-![Ekran görüntüsü 2025-03-25 012102](https://github.com/user-attachments/assets/9ed8fad0-f01a-44cd-a0ae-8d9603eed630)
-![Ekran görüntüsü 2025-03-25 012433](https://github.com/user-attachments/assets/00c739fb-5b76-4fb7-af04-a39d2197c5f3)
-![Ekran görüntüsü 2025-03-25 012403](https://github.com/user-attachments/assets/f686af7d-d9a5-44c3-9bb1-a1d471b3a862)
-![Ekran görüntüsü 2025-03-25 012323](https://github.com/user-attachments/assets/c556db36-fb2a-4a6c-b115-20cf09e14442)
+![Ekran görüntüsü 2025-03-25 012323](https://github.com/user-attachments/assets/0fe6bce5-f98f-447b-b47a-a0b89f8c2173)
+![Ekran görüntüsü 2025-03-25 012403](https://github.com/user-attachments/assets/62f8dd53-3502-4cc4-bb5d-f09979c54c7c)
+![Ekran görüntüsü 2025-03-25 012433](https://github.com/user-attachments/assets/7cfc2164-c3d3-4571-8429-46d8cb70202a)
+![Ekran görüntüsü 2025-03-25 012102](https://github.com/user-attachments/assets/6858589c-7858-4a72-bcf6-1da63dc32a28)
+![Ekran görüntüsü 2025-03-25 012129](https://github.com/user-attachments/assets/f564e2a2-ad73-48ef-9132-f008fe37ec53)
+![Ekran görüntüsü 2025-03-25 012154](https://github.com/user-attachments/assets/88fe6d4d-8d15-4488-97b6-4a85d35446fa)
+![Ekran görüntüsü 2025-03-25 012247](https://github.com/user-attachments/assets/f322e7d7-4f57-4d10-b5e1-4aa8df9fbee8)
+
