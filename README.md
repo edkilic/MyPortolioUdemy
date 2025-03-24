@@ -1,4 +1,4 @@
-🚀 ASP.NET Core ile Portfolio Uygulaması Geliştirdim! 🚀
+🚀 ASP.NET Core ile Portfolio Uygulaması 🚀
 
 Murat Yücedağ’ın Udemy’deki ASP.NET Core ile Portfolio Uygulaması Geliştirme eğitimini tamamlayarak, hazır bir şablon üzerinde düzenlemeler yaptım ve Admin Paneli'ni ihtiyacıma göre özelleştirdim. Bu süreçte ASP.NET Core 8.0 ve Entity Framework Core kullanarak Code First yaklaşımıyla veritabanı işlemleri gerçekleştirdim.
 
