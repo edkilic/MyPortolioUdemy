@@ -30,7 +30,7 @@ Bu projeyle back-end ve front-end entegrasyonu, veritabanı yönetimi ve dinamik
 
 
 
-🔹EKRAN GÖRÜNTÜLERİ:🔹
+📸 Projeden bazı ekran görüntüleri: 
 
 
 ![Ekran görüntüsü 2025-03-25 012247](https://github.com/user-attachments/assets/a9d79c62-8059-45ee-aaa6-c7ba7f13a71b)
